@@ -31,7 +31,7 @@ var low  = 10;
 
 var math = high - low;
 // Q: What is `math` set to?
-// A: the difference between high and low
+// A: the difference between high and low; 40
 
 math = high - "5";
 // Q: What is `math` set to?
