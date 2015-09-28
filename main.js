@@ -67,8 +67,9 @@ var instructorName = "Tim";
 // Final Statement
 var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
 
-// statement (enter)
-// return (Kevin is taking a class at The Iron Yard, my instructor's name is Tim)
+statement;
+
+
 
 
 
